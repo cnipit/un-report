@@ -27,6 +27,7 @@ ggplot(data = gapminder_1997) +
   theme(plot.title = element_text(hjust = 0.5))+
   theme_minimal()
 
+ggsave("figures/gdpVsLife.png")
 # List all palettes
 RColorBrewer::display.brewer.all()
 
