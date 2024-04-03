@@ -12,8 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r packages, include=FALSE}
 library(tidyverse)
 ```
-# Introduction1
-## Introduction2
+## Introduction
 
 This is a report and it was prepared for this workshop I'm in
 
